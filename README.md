@@ -12,5 +12,3 @@ The env.rb file has configurations to run the repository on windows environment.
 ### PROJECT EXECUTION
  To execute the project:
  ```cucumber```
-
- - [Nathalia`s Linkedin](https://www.linkedin.com/in/nathaliaofreire)
